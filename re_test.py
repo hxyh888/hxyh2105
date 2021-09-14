@@ -7,3 +7,5 @@ for i in name_list:
         print("%sfuheguize"%result.group())
     else:
         print("%sbufuheguize"%i)
+
+
